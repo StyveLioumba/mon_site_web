@@ -114,6 +114,10 @@ p{
   .a4{
     display: block;
   }
+  .img-profile{
+      width: 200px;
+      height: 200px;
+  }
  }
 
  /* Medium devices (tablets, 768px and up)
