@@ -128,3 +128,16 @@ p{
 
  /*Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }*/
+
+#scroll_to_top {
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    bottom: 50px;
+    right: 30px;
+    text-align: center;
+  }
+  #scroll_to_top img {
+    width: 25px;
+    text-align: center;
+  }
